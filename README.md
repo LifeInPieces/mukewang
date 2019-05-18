@@ -13,3 +13,5 @@ performance: {
 },
 performance与plugins同级
 
+命令为npm run build
+
